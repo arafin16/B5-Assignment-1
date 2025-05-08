@@ -1,4 +1,5 @@
 **Provide an example of using union and intersection types in TypeScript.**
+
 TypeScript provides powerful ways to compose types using `union` (|) and `intersection` (&) operators. These features help you write safer and more flexible code.
 ## 📌 Union Types (|)
 Union types allow a value to be one of many types.
